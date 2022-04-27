@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Mostafa El-Shehaly</h1>
 <h3 align="center">A passionate Full Stack Developer | Software Engineer</h3>
 
-- 🔭 I’m currently working on **improving my skills**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **DevOps**
 
