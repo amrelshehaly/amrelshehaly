@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amr Mostafa El-Shehaly</h1>
 <h3 align="center">A passionate Full Stack Developer | Software Engineer</h3>
 
-- 🔭 I’m currently working on **E-commerce Website**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **interesting Full Stack Projects**
-
-- 💬 Ask me about **Anything**
+<p align="center">innovative software engineer with experience in building web applications that
+match client needs. Confident with my talent and knowledge, which have been
+achieved in the past working years on many projects based on different
+industries.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
